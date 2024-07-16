@@ -35,7 +35,7 @@ Here, we collected some useful data sources for you! They are separated in diffe
 - [Humanitarian Data Exchange](https://data.humdata.org/)
 - [Caltech Database](https://data.caltech.edu/search?q=&f=resource_type%3Adataset&l=list&p=1&s=10&sort=newest)
 
-## Dataset Collections <a name="collections"></a>
+# Dataset Collections <a name="collections"></a>
 <details>
 <summary>
   <a id="kaggle-infos"></a>
