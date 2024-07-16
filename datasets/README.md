@@ -1,7 +1,7 @@
 
 [🔗 Return to `Table of Contents` for more topics 🔗](https://github.com/HendrikLinn/TechLabs_Projects/blob/main/README.md)
 
-<h1 align="center"> Datasets for your project </h1>
+<h1 align="center"> 📂 Datasets for your project 📂 </h1>
 Here, we collected some useful data sources for you! They are separated in different topic areas, so you can easily find the sources that fit your project!
 
 </br>
@@ -44,7 +44,7 @@ Here, we collected some useful data sources for you! They are separated in diffe
 
 [Kaggle - Data Science Platform](https://www.kaggle.com/datasets)
 
-Kaggle is an Online-Communeity, that is made for Data Scientists. Here, you can learn coding, take on Data Science-Challenges and exchange datasets with others. For your project, you can search for interesting datasets.
+Kaggle is an Online-Community, that is made for Data Scientists. Here, you can learn coding, take on Data Science-Challenges and exchange datasets with others. For your project, you can search for interesting datasets.
 
 > 🟨 __Note__ 🟨
 >
