@@ -1,4 +1,7 @@
-# 🔥 Level up your TechLabs Project 🔥
+
+<p align="center"> <img width="400px" src="https://github.com/HendrikLinn/TechLabs_Projects/blob/main/.github/LOGO.png" alt="TechLabs Logo" /> </p>
+
+<h1 align="center">🔥 Level up your TechLabs Project 🔥</h1>
 Hey Techie, nice to see you! 🙂
 This repository should assist you in various questions concerning the project phase within the TechLabs journey.
 
