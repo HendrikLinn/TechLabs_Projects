@@ -44,7 +44,7 @@ Here, we collected some useful data sources for you! They are separated in diffe
 
 [Kaggle - Data Science Platform](https://www.kaggle.com/datasets)
 
-Kaggle is an Online-Communeity, that is made for Data Scientists. Here, you can learn coding, take on Data Science-Challenges and exchange datasets with others. For your project, you can search for interesting datasets.
+Kaggle is an Online-Community, that is made for Data Scientists. Here, you can learn coding, take on Data Science-Challenges and exchange datasets with others. For your project, you can search for interesting datasets.
 
 > 🟨 __Note__ 🟨
 >
