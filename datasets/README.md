@@ -6,13 +6,13 @@ Here, we collected some useful data sources for you! They are separated in diffe
 
 </br>
 
-# What does the repository contain?
-- [Data Sources](#DataSources)
-- [Best Practices](#BestPractices)
-- [Help](#Help)
-- [Example Projects](#ExampleProjects)
+# Table of Contents
+- [Public Data](#publicdata)
+- [Dataset Collections](#collections)
 
-# Public data
+</br>
+
+# Public data <a name="publicdata"></a>
 ## Münster
 - [Open Data Münster](https://opendata.stadt-muenster.de/)
 - [API Busdaten Münster](https://api.busradar.conterra.de/)
@@ -35,7 +35,7 @@ Here, we collected some useful data sources for you! They are separated in diffe
 - [Humanitarian Data Exchange](https://data.humdata.org/)
 - [Caltech Database](https://data.caltech.edu/search?q=&f=resource_type%3Adataset&l=list&p=1&s=10&sort=newest)
 
-## Other sources
+## Dataset Collections <a name="collections"></a>
 <details>
 <summary>
   <a id="kaggle-infos"></a>
