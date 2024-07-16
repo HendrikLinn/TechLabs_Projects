@@ -1,7 +1,7 @@
 
 [🔗 Return to `Table of Contents` for more topics 🔗](https://github.com/HendrikLinn/TechLabs_Projects/blob/main/README.md)
 
-<h1 align="center"> Datasets for your project </h1>
+<h1 align="center"> 📂 Datasets for your project 📂 </h1>
 Here, we collected some useful data sources for you! They are separated in different topic areas, so you can easily find the sources that fit your project!
 
 </br>
