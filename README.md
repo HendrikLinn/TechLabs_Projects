@@ -14,7 +14,27 @@ This repository should assist you in various questions concerning the project ph
 # Data Sources <a name="DataSources"></a>
 Here, we collected some useful data sources for you! They are separated in different topic areas, so you can easily find the sources that fit your project!
 
-_Note_: This list is not complete. If you find any other useful sources, feel free to contact us!
+## Public data
+- [Open Data Münster](https://opendata.stadt-muenster.de/)
+- [API Busdaten Münster](https://api.busradar.conterra.de/)
+- [Geodaten Münster](https://geo.stadt-muenster.de/webgis/application/Geobasisdaten)
+- [Open Data NRW](https://open.nrw/open-data)
+- [Open Data ÖPNV](https://www.opendata-oepnv.de/ht/de/willkommen)
+- [Statistisches Bundesamt](https://www.destatis.de/DE/Home/_inhalt.html)
+- [Open Data Deutschland](https://www.govdata.de/)
+- [Mobilitätsdaten Deutschland](https://mobilithek.info/)
+- [World Bank Open Data](https://data.worldbank.org/)
+- [WHO Datenbank](https://www.who.int/data)
+- [Humanitarian Data Exchange](https://data.humdata.org/)
+- [Caltech Database](https://data.caltech.edu/search?q=&f=resource_type%3Adataset&l=list&p=1&s=10&sort=newest)
+
+## Other sources
+- [Awesome Public Datasets Collection](https://github.com/awesomedata/awesome-public-datasets)
+- [Kaggle - Data Science Platform](https://www.kaggle.com/datasets)
+- [Machine Learning Datasets](https://archive.ics.uci.edu/datasets)
+- [Papers With Code ML Datasets](https://paperswithcode.com/datasets)
+
+> Note: This list is not complete. If you find any other useful sources, feel free to contact us!
 
 
 # Best Practices <a name="BestPractices"></a>
