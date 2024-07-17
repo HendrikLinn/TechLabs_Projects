@@ -5,6 +5,7 @@
 Hey Techie, nice to see you! 🙂
 This repository should assist you in various questions concerning the project phase within the TechLabs journey.
 
+
 # What does the repository contain?
 - [Data Sources](https://github.com/HendrikLinn/TechLabs_Projects/blob/main/datasets/README.md)
 - [Best Practices](#BestPractices)
@@ -12,7 +13,15 @@ This repository should assist you in various questions concerning the project ph
 - [Example Projects](#ExampleProjects)
 
 # Best Practices <a name="BestPractices"></a>
-Here are some best practices for python, pandas, numpy and other things.
+<details>
+<summary>
+  <a id="streamlit"></a>
+  <b><a href="https://streamlit.io/">streamlit</a></b>
+</summary>
+
+Streamlit is a nice and easy way to give your project a nice and intuitive interface without having to know anything about Frontend WebDev! 
+Simply install the ``streamlit`` Python package and get started!
+</details>
 
 # Help <a name="Help"></a>
 - You want to use Google Colab for your project? [Quick Guide to set up Google Colab](https://medium.com/@shibugarg0303/run-entire-python-project-on-google-colab-10de1871c9a5)
