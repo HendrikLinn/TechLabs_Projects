@@ -1,6 +1,6 @@
 [🔗 Return to `Table of Contents` for more topics 🔗](https://github.com/HendrikLinn/TechLabs_Projects/blob/main/README.md)
 
-<h1 align="center"> 📂 Example Projects 📂 </h1>
+<h1 align="center"> 💡 Example Projects 💡 </h1>
 Here, we collected some example projects for you, that were done by previous groups and other people on the internet.
 
 </br>
