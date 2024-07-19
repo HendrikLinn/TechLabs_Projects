@@ -7,10 +7,10 @@ This repository should assist you in various questions concerning the project ph
 
 
 # What does the repository contain?
-📂[Data Sources](https://github.com/HendrikLinn/TechLabs_Projects/blob/main/datasets/README.md)
-🧭[Best Practices](#BestPractices)
-💡[Example Projects](https://github.com/HendrikLinn/TechLabs_Projects/blob/main/example_projects/README.md)
-❓[Help](#Help)
+📂[Data Sources](https://github.com/HendrikLinn/TechLabs_Projects/blob/main/datasets/README.md)  
+🧭[Best Practices](#BestPractices)  
+💡[Example Projects](https://github.com/HendrikLinn/TechLabs_Projects/blob/main/example_projects/README.md)  
+❓[Help](#Help)  
 
 # Best Practices <a name="BestPractices"></a>
 <details>
