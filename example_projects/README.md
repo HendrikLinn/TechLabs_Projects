@@ -3,6 +3,8 @@
 <h1 align="center"> 📂 Example Projects 📂 </h1>
 Here, we collected some example projects for you, that were done by previous groups and other people on the internet.
 
+</br>
+
 <details>
 <summary>
   <a id="medium-techlabs"></a>
