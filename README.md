@@ -1,5 +1,5 @@
 
-<p align="center"> <img width="400px" src="https://github.com/HendrikLinn/TechLabs_Projects/blob/main/.github/LOGO.png" alt="TechLabs Logo" /> </p>
+<p align="center"> <img width="450px" src="https://github.com/HendrikLinn/TechLabs_Projects/blob/main/.github/LOGO.png" alt="TechLabs Logo" /> </p>
 
 <h1 align="center">🔥 Level up your TechLabs Project 🔥</h1>
 Hey Techie, nice to see you! 🙂
