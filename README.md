@@ -7,10 +7,10 @@ This repository should assist you in various questions concerning the project ph
 
 
 # What does the repository contain?
-- [Data Sources](https://github.com/HendrikLinn/TechLabs_Projects/blob/main/datasets/README.md)
-- [Best Practices](#BestPractices)
-- [Help](#Help)
-- [Example Projects](https://github.com/HendrikLinn/TechLabs_Projects/blob/main/example_projects/README.md)
+- 📂[Data Sources](https://github.com/HendrikLinn/TechLabs_Projects/blob/main/datasets/README.md)
+- 1️⃣[Best Practices](#BestPractices)
+- 💡[Example Projects](https://github.com/HendrikLinn/TechLabs_Projects/blob/main/example_projects/README.md)
+- ❓[Help](#Help)
 
 # Best Practices <a name="BestPractices"></a>
 <details>
@@ -26,4 +26,3 @@ Simply install the ``streamlit`` Python package and get started!
 # Help <a name="Help"></a>
 - You want to use Google Colab for your project? [Quick Guide to set up Google Colab](https://medium.com/@shibugarg0303/run-entire-python-project-on-google-colab-10de1871c9a5)
 - You want to use Git and GitHub for your project? [Quick Guide to set up Git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)
-# Example Projects <a name="ExampleProjects"></a>
