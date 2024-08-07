@@ -27,7 +27,7 @@ Simply install the ``streamlit`` Python package and get started!
 # Help <a name="Help"></a>
 - You want to use Google Colab for your project? [Quick Guide to set up Google Colab](https://medium.com/@shibugarg0303/run-entire-python-project-on-google-colab-10de1871c9a5)
 - You want to use Git and GitHub for your project? [Quick Guide to set up Git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)
-- Will algorithm is most suitable for your project? [Machine Learning Map](https://scikit-learn.org/stable/machine_learning_map)
+- Which algorithm is most suitable for your project? [Machine Learning Map](https://scikit-learn.org/stable/machine_learning_map)
 
 # Further Resources <a name="Further"></a>
 If you are interested in learning more about Data Science and Machine Learning, here are some good and helpful resources to dive deeper:
