@@ -11,7 +11,7 @@ This repository should assist you in various questions concerning the project ph
 🧭[Best Practices](#BestPractices)  
 💡[Example Projects](https://github.com/HendrikLinn/TechLabs_Projects/blob/main/example_projects/README.md)  
 ❓[Help](#Help)
-[Further Resources](#Further)
+❗[Further Resources](#Further)
 
 # Best Practices <a name="BestPractices"></a>
 <details>
