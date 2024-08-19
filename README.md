@@ -22,6 +22,9 @@ This repository should assist you in various questions concerning the project ph
 
 Streamlit is a nice and easy way to give your project a nice and intuitive interface without having to know anything about Frontend WebDev! 
 Simply install the ``streamlit`` Python package and get started!
+
+[Here is a small introduction into Streamlit and how to set it up.](https://www.youtube.com/watch?v=2siBrMsqF44)
+
 </details>
 
 # Help <a name="Help"></a>
