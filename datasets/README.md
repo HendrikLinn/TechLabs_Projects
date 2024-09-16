@@ -7,10 +7,17 @@ Here, we collected some useful data sources for you! They are separated in diffe
 </br>
 
 # Table of Contents
+- [How to find the right dataset for my project?](#findit)
 - [Public Data](#publicdata)
 - [Dataset Collections](#collections)
 
 </br>
+
+# Find the right dataset <a name="findit"></a>
+Most groups struggle finding a dataset that fits their project best. But there are some tips that can help you:
+- **focus on your goal**: What is the goal of your project? Do you have specific data points or features you want to dive into? Also, it could help focussing on a specific domain first. Start small - there is always room for more data and features!
+- **size matters**: You will need enough meaningful data to support your research question, product or goal that you want to fulfill. If you look for datasets, keep your goal in mind and always consider the size of the dataset before starting with the exploratory data analysis.
+- **no data? new idea**: In case you cannot find any suitable data for your project idea, then leave it and search for a different idea. It is not useful to put a lot of effort into data collection because you will certainly lack the time later in your project.
 
 # Public data <a name="publicdata"></a>
 ## Münster
