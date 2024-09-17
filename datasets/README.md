@@ -16,8 +16,9 @@ Here, we collected some useful data sources for you! They are separated in diffe
 # Find the right dataset <a name="findit"></a>
 Most groups struggle finding a dataset that fits their project best. But there are some tips that can help you:
 - **focus on your goal**: What is the goal of your project? Do you have specific data points or features you want to dive into? Also, it could help focussing on a specific domain first. Start small - there is always room for more data and features!
+- **meta information**: Usually, a dataset comes with some sort of meta information on the features and columns included. It is recommended to first have a look at these meta information before diving into the analysis of the actual data. Meta information usually contain valuable insight into what kind of data you are dealing with, so you could catch a glimpse of its potential.
 - **size matters**: You will need enough meaningful data to support your research question, product or goal that you want to fulfill. If you look for datasets, keep your goal in mind and always consider the size of the dataset before starting with the exploratory data analysis.
-- **no data? new idea**: In case you cannot find any suitable data for your project idea, then leave it and search for a different idea. It is not useful to put a lot of effort into data collection because you will certainly lack the time later in your project.
+- **no data? new idea!**: In case you cannot find any suitable data for your project idea, then leave it and search for a different idea. It is not useful to put a lot of effort into data collection because you will certainly lack the time later in your project.
 
 # Public data <a name="publicdata"></a>
 ## Münster
