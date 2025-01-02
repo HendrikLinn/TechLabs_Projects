@@ -25,15 +25,28 @@ Most groups struggle finding a dataset that fits their project best. But there a
 - [Open Data Münster](https://opendata.stadt-muenster.de/)
 - [API Busdaten Münster](https://api.busradar.conterra.de/)
 - [Geodaten Münster](https://geo.stadt-muenster.de/webgis/application/Geobasisdaten)
+- [Registry of publications University Münster](https://miami.uni-muenster.de/)
 
 ## NRW
 - [Open Data NRW](https://open.nrw/open-data)
+- [Open GeoData NRW](https://www.opengeodata.nrw.de/produkte/)
 
 ## Germany
 - [Open Data ÖPNV](https://www.opendata-oepnv.de/ht/de/willkommen)
+- [German Weather Service (DWD)](https://opendata.dwd.de/)
+- [API for DWD](https://brightsky.dev/)
 - [Statistisches Bundesamt](https://www.destatis.de/DE/Home/_inhalt.html)
 - [Open Data Deutschland](https://www.govdata.de/)
-- [Mobilitätsdaten Deutschland](https://mobilithek.info/)
+- [Mobility Data Germany](https://mobilithek.info/)
+- [Unfallaltas Deutschland](https://unfallatlas.statistikportal.de/)
+- [Electronic passenger information (ÖPNV)](https://www.delfi.de/)
+- [Mobility Data Germany (Mobilithek)](https://mobilithek.info/)
+- [Official Maps of Germany](https://basemap.de/)
+- [Cell Towers in Germany](https://www.bundesnetzagentur.de/DE/Vportal/TK/Funktechnik/EMF/start.html
+- [German tourism association](https://open-data-germany.org/)
+
+## EU
+- [European Union subsidies database](https://kohesio.ec.europa.eu/)
 
 ## Worldwide
 - [World Bank Open Data](https://data.worldbank.org/)
@@ -42,6 +55,7 @@ Most groups struggle finding a dataset that fits their project best. But there a
 ## NGOs and Universities
 - [Humanitarian Data Exchange](https://data.humdata.org/)
 - [Caltech Database](https://data.caltech.edu/search?q=&f=resource_type%3Adataset&l=list&p=1&s=10&sort=newest)
+- [Registry of research data repositories](https://www.re3data.org/)
 
 # Dataset Collections <a name="collections"></a>
 <details>
